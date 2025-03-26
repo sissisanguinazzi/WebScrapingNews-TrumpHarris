@@ -50,10 +50,10 @@ To replicate this experiment, make sure you have Python 3 installed. You can ins
 ### 1. Clone the repository
 To be able to run the code locally you can clone the repository by using:
 ```
-git clone https://github.com/sissisanguinazzi/WebScrapingTrumpHarris-Private.git
+git clone https://github.com/sissisanguinazzi/WebScrapingNews-TrumpHarris.git
 ```
 ```
-cd WebScrapingTrumpHarris
+cd WebScrapingNews-TrumpHarris
 ```
 
 ### 2. Create and activate virtual environment
