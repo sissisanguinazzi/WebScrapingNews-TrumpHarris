@@ -1,0 +1,10 @@
+.env
+.vscode
+.pytest_cache
+trump\__pycache__
+__pycache__
+
+venv
+.venv
+
+.DS_Store
