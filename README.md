@@ -1,7 +1,7 @@
 
 # WebScrapingTrumpHarris
 
-By Lisell Aare & Silvia Sanguinazzi
+By [Lisella Aare](https://www.linkedin.com/in/lisell-aare/) & [Silvia Sanguinazzi](https://www.linkedin.com/in/silvia-sanguinazzi-395b34209/)
 
 This repository contains a project designed to perform sentiment analysis on news articles about **Kamala Harris** and **Donald Trump**. The articles are web scraped using **The Guardian API**, and sentiment analysis is performed using **TextBlob**. The results are visualized in an interactive **Streamlit dashboard**.
 
